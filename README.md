@@ -8,4 +8,4 @@ The goal of this project is to combine a passion for aviation with hardware engi
 
 Instead of relying on commercial, off-the-shelf solutions, the majority of the instruments, control elements, and the structural frame have been custom-designed and assembled independently.
 
-Work is still in progress, with periodic updates being added.
+**Work is still in progress, with periodic updates being added.**
